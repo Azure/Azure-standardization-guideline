@@ -7,7 +7,7 @@ Azure 標準化ガイドライン (以下、本書と記載) とは、Microsoft 
 
 ## ガイドラインのダウンロード
 
-Azure 標準化ガイドラインのファイルは Release からダウンロードできます。いくつかの章ごとに zip 形式でまとまっています。なお、0 章はすべての zip ファイルに含まれています。
+Azure 標準化ガイドラインのファイルは [Release](https://github.com/Azure/Azure-standardization-guideline/releases) からダウンロードできます。いくつかの章ごとに zip 形式でまとまっています。なお、0 章はすべての zip ファイルに含まれています。
 
 ## ガイドラインの構成
 
